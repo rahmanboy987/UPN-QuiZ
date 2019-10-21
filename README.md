@@ -9,7 +9,7 @@ Aplikasi Android minimal 5.0 (API - 21)
 
 # Cara Penggunaan
 1. User masuk kedalam aplikasi dengan menekan tombol ikon aplikasi terlebih dahulu.
-![alt text](https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/0._home.png)
+![alt text](https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/0._home.png | width=100)
 2. Sebelum menuju menu utama, user disuguhkan splash screen selama beberapa detik.
 ![alt text](https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/1_loading.png)
 3. Didalam menu utama terdapat 3 tombol (tombol “MULAI”, tombol “ABOUT”, dan tombol “EXIT”).
