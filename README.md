@@ -1,7 +1,8 @@
 # UPN-QuiZ
 
 ## Deskripsi umum
-Aplikasi ini merupakan sebuah game tanya-jawab yang bertujuan untuk mengenalkan kampus UPN serta Jurusan Teknik Informatika didalam kampus upn veteran jawa timur.
+Aplikasi ini merupakan sebuah game kuis tanya-jawab yang bertujuan untuk lebih mengenalkan kampus UPN Veteran Jawa Timur dan memberikan wawasan seputar UPN “Veteran” Jawa Timur kepada mahasiswa agar lebih mengenal & cinta terhadap kampus, serta mengenalkan Jurusan Teknik informatika pada bidang kuis pemrograman. 
+
 Aplikasi ini menyedian 10 pertanyaan dimana 5 diantaranya pertanyaan umum dan 5 lainnya merupakan pertanyaan programming.
 
 ## System Requirement
